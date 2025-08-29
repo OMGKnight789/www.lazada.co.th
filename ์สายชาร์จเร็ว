@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- แก้ไข preview สำหรับ Facebook -->
+  <title>พิกัด : สายชาร์จไอโฟน</title>
+  <meta property="og:title" content="พิกัด : สายชาร์จไอโฟน">
+  <meta property="og:url" content="https://OMGKnight789.github.io/www.lazada.co.th/">
+
+  <!-- Redirect ไป affiliate link -->
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://s.lazada.co.th/s.zjEqg";
+    }, 1000); // รอสักครู่แล้ว redirect
+  </script>
+</head>
+<body>
+  <p>กำลังนำคุณไปยังลิงก์…</p>
+</body>
+</html>
